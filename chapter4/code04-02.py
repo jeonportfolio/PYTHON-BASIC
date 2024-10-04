@@ -15,7 +15,7 @@ while True :
     r = random.random()
     g = random.random()
     b = random.random()
-    turtle.pencolor((r, g, b))
+    turtle.pencolor((r, g, b))      
     
     angle =  random.randrange(0,360)
     dist = random.randrange(1,100)
