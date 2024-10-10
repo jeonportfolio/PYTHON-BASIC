@@ -12,3 +12,5 @@ if sosu == True :
         print(" %d는 소수입니다. " % (num))
 else :
         print(" %d는 소수가 아닙니다. " % (num))
+
+        
