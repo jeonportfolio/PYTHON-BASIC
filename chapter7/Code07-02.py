@@ -9,3 +9,4 @@ aa[3] = int(input("4번째 숫자 : "))
 hap = aa[0] + aa[1] + aa[2] + aa[3]
 
 print("합계 ==> %d" % hap)
+

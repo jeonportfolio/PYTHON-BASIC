@@ -18,7 +18,6 @@ if __name__ == "__main__":
         random.shuffle(shapeList)
         myTurtle = turtle.Turtle(shapeList[0])
         
-        
         tX = random.randrange(int(-swidth / 2), int(swidth / 2))
         tY = random.randrange(int(-sheight / 2), int(sheight / 2))
         
