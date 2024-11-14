@@ -23,3 +23,5 @@ fileMenu.add_separator()
 fileMenu.add_command(label = "종료", command = func_exit)
 
 window.mainloop()
+
+fileMenu = Menu(mainMenu)

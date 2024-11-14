@@ -12,3 +12,4 @@ filename = askopenfilename(parent = window, filetypes = (("GIF 파일", "*.gif")
 label1.configure(text=str(filename))
 
 window.mainloop()
+ 

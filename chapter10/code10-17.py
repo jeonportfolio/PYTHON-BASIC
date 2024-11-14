@@ -12,3 +12,5 @@ fileMenu.add_separator()
 fileMenu.add_command(label = "종료")
 
 window.mainloop()
+
+

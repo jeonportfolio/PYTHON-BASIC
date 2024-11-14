@@ -24,3 +24,4 @@ label1.bind("<Button>", clickImage)
 
 label1.pack( expand = True, anchor = CENTER)
 window.mainloop()
+
