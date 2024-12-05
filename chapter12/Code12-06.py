@@ -22,4 +22,3 @@ myCar2.speed = 60
 print("자동차2의 현재 속도는 %dkm, 생산된 자동차는 총 %d대입니다." %(myCar2.speed, Car.count))
 
 
-

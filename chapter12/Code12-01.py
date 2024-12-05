@@ -8,4 +8,3 @@ class  Car :
     def  downSpeed(self, value) :
         self.speed -= value
 
-        

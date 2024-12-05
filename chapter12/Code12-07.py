@@ -3,17 +3,13 @@ class Car:
 
     def upSpeed(self, value):
         self.speed += value  
-        print("현재 속도: %d%%" % self.speed)  
-
-
+        print("현재 속도: %d%%" % self.speed) 
 class Sedan(Car):
     def upSpeed(self, value):
         self.speed += value
         if self.speed > 150:
             self.speed = 150
         print("현재 속도: %d%%" % self.speed)  
-
-
 class Truck(Car):
     pass
 
@@ -24,8 +20,6 @@ print("트럭", end=" ")
 truck1.upSpeed(200)
 
 print("승용차", end=" ")
-sedan1.upSpeed(150)
- 
-
+sedan1.upSpeed(200)
 
 

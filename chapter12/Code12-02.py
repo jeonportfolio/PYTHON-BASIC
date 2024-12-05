@@ -25,3 +25,4 @@ print("자동차1의 색상은 %s이며 현재 속도는 %dkm입니다." %(myCar
 print("자동차2의 색상은 %s이며 현재 속도는 %dkm입니다." %(myCar2.color, myCar2.speed))
 print("자동차3의 색상은 %s이며 현재 속도는 %dkm입니다." %(myCar3.color, myCar3.speed))
 
+

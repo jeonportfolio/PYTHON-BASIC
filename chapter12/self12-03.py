@@ -22,3 +22,4 @@ th3 = threading.Thread(target = calc3.run)
 th1.start()
 th2.start()
 th3.start()
+

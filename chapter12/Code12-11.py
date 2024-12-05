@@ -1,5 +1,4 @@
 import time
-
 class RacingCar :
     carName = ''
     def  __init__(self, name) :
