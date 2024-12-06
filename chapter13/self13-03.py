@@ -23,3 +23,5 @@ while (True) :
     print("%5s   %15s   %5d   %5d" % (data1, data2, data3, data4))
 
 con.close()
+
+ 
