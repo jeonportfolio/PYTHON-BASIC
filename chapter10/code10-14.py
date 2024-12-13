@@ -1,13 +1,4 @@
-from tkinter import *
-from tkinter import messagebox
 
-def clickLeft(event) : 
-        messagebox.showinfo("마우스 왼쪽 버튼이 클릭됨 ")
-window = Tk()
-
-window.bind("<Button-1>",clickLeft)
-
-window.mainloop()
 from tkinter import *
 from tkinter import messagebox
 
@@ -24,4 +15,3 @@ label1.bind("<Button>", clickImage)
 
 label1.pack( expand = True, anchor = CENTER)
 window.mainloop()
-

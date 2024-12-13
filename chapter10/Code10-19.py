@@ -12,3 +12,4 @@ value = askinteger("확대 배수", "주사위 숫자(1~6)을  입력하세요",
 label1.configure(text = str(value))
 window.mainloop()
 
+ 
